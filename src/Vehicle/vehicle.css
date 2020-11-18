@@ -1,0 +1,11 @@
+.vehicle {
+    display: inline-block;
+    margin: 8px;
+    border: 1px solid #aaaaaa;
+    box-shadow: 0 2px 2px #cccccc;
+    padding: 5px 10px 10px 15px;
+    height: 225px;
+    background-color: burlywood;
+    width: 200px;
+    color: crimson;
+}
